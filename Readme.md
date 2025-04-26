@@ -1,5 +1,3 @@
-# azure
-
 # ☁️ Azure Repository
 
 Welcome to the **Azure** repository!  
