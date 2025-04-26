@@ -1,13 +1,13 @@
-# ☁️ Azure Repository
+# ☁️ Azure verified modules (avm) Repository
 
-Welcome to the **Azure** repository!  
+Welcome to the **Azure verified modules (avm)** repository!  
 This project contains resources, labs, and examples focused on building, managing, and scaling solutions with **Microsoft Azure**.
 
 ---
 
 ## 📂 Repository Structure
 
-- `avm-terraform-labs/` — Terraform-based azure verified module (avm) labs for Azure resource management and automation for .
+- `avm-terraform-labs/` — Terraform-based azure verified module (avm) labs for Azure resource management and automation.
 
 ---
 
@@ -16,7 +16,7 @@ This project contains resources, labs, and examples focused on building, managin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/azure.git
+git clone https://github.com/your-username/azure-avm-terraform.git
 cd azure
 ```
 
